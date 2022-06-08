@@ -1,4 +1,4 @@
-provider "aws {
+ resource "aws {
     region = "us-east-1"
     
 }
